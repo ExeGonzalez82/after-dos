@@ -19,3 +19,5 @@ if (topping == "oreo") {
 
 precioFinal = helado + precio;
 console.log("El helado cuesta " + precioFinal);
+
+console.log("terminamos el ejercicio");
